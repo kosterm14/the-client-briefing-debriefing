@@ -1,6 +1,8 @@
-> _Fork_ deze deeltaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+Notes tijdens de briefing:
+![26sep](https://user-images.githubusercontent.com/61830362/192512731-1a2449f8-b79b-4080-b551-8a8f1753e525.jpg)
 
-
+Debriefing: 
+https://github.com/kosterm14/the-client-briefing-debriefing/wiki/Debriefing
  
 ## Licentie
 
