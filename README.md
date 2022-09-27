@@ -1,3 +1,5 @@
+Voor deze opdracht moesten we een debriefing maken om zo aan te tonen dat we de opdracht goed begrepen.
+
 Notes tijdens de briefing:
 ![26sep](https://user-images.githubusercontent.com/61830362/192512731-1a2449f8-b79b-4080-b551-8a8f1753e525.jpg)
 
